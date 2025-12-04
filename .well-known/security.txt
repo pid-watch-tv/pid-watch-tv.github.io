@@ -1,0 +1,9 @@
+# security.txt for pid-watch-tv.github.io
+# canonical: https://pid-watch-tv.github.io/.well-known/security.txt
+Contact: mailto:security@pid-watch-tv.example
+Contact: https://github.com/pid-watch-tv
+Encryption: https://github.com/pid-watch-tv/pgp-key.asc
+Policy: https://pid-watch-tv.github.io/security-policy
+Acknowledgements: https://pid-watch-tv.github.io/security/acknowledgements
+Expires: 2026-01-01T00:00:00Z
+# End of file
